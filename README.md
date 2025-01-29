@@ -30,7 +30,7 @@ EAzyTicket is a Flutter-based mobile application designed for seamless ticket bo
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/EAzyTicket.git
+   git clone https://github.com/mangalahoo/EAzyTicket.git
    cd EAzyTicket
 
 2. Install Dependencies: 
