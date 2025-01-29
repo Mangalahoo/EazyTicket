@@ -1,4 +1,4 @@
-# EAzyTicket 🎟️  
+# EazyTicket 🎟️  
 
 EAzyTicket is a Flutter-based mobile application designed for seamless ticket booking. The app features an intelligent chatbot that allows users to book tickets through natural language prompts, making the process faster and more user-friendly.  
 
